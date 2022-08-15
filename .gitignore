@@ -72,7 +72,8 @@ workspace
 /doc/COMMUNITY.org
 /doc/CONTRIBUTING.org
 /games/
-private/
+# Removing private because of fstar is installed here.
+# private/
 !private/README.md
 !private/snippets/README.md
 !private/templates/README.md
